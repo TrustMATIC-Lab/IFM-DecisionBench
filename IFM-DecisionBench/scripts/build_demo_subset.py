@@ -1,8 +1,3 @@
-"""Illustrative selection code for the representative public examples.
-
-The complete benchmark construction pipeline and template collection are not
-included in the public repository.
-"""
 
 from __future__ import annotations
 
